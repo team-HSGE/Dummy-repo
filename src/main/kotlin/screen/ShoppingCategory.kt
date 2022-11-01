@@ -40,4 +40,6 @@ class ShoppingCategory: Screen() {
         println("$selectedCategory : 존재하지 않는 카테고리 입니다. 다시 입력해주세요.")
         showCategories()
     }
+
+    /*주석주석주석*/
 }
